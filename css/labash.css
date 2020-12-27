@@ -1,0 +1,66 @@
+body{
+	background-color: #f2f2f2;
+}
+
+.navbar{
+	background-color: #62605B;
+}
+
+.navbar-brand{
+	font-weight: 300;
+	font-size: 30px;
+}
+
+.container{
+	max-width: 100000px;
+}
+
+.btn{
+	margin-top: 30px;
+}
+
+.ovoffer{
+	background-image: url(pg1.jpeg);
+		background-color: gray;
+}
+
+.offer{
+	padding-top: 100px;
+	padding-bottom: 50px;
+}
+
+.centered{
+	text-align: center;
+}
+
+.offer__title2{
+	padding-bottom: 50px;
+}
+.circles{
+
+}
+
+.circle1 {
+width: 250px; 
+height: 250px;
+background: #83A7C9;
+border-radius: 50%;
+}
+
+.circle2 {
+width: 250px; 
+height: 250px;
+background: #83A7C9;
+border-radius: 50%;
+}
+
+.circle3 {
+width: 250px; 
+height: 250px;
+background: #83A7C9;
+border-radius: 50%;
+}
+
+.karusel{
+	background-color: gray;
+}
